@@ -23,6 +23,7 @@ public class Main3 {
         Supplier<Pold> supplier= Pold::new;
 
         System.out.println(seedArray(supplier,10));
+        System.out.println("gamithike i fasi");
 
         System.out.println(calculate((s1,s2)->s1.concat(s2),"harro","pri"));
         System.out.println(calculate(String::concat,"harro","pri"));
