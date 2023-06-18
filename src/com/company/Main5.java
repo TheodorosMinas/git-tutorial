@@ -91,6 +91,7 @@ public class Main5 {
 
         Depart depart=new Depart("depar1");
         Depart depart2=new Depart("depar2");
+        Depart depart3=new Depart("depar3");
 
         depart.addEmlp(e1);
         depart.addEmlp(e2);
